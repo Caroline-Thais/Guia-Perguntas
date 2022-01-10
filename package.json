@@ -1,0 +1,23 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "Plataforma de perguntas e respostas estilo Yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caroline-Thais/guiaPerguntas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caroline-Thais/guiaPerguntas/issues"
+  },
+  "homepage": "https://github.com/Caroline-Thais/guiaPerguntas#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
