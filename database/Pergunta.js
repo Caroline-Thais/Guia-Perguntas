@@ -12,8 +12,8 @@
      }
  });
 
- Pergunta.sync({force: false}).then(() => {
+ /*Pergunta.sync({force: false}).then(() => {
      console.log("Tabela criada!")
- });
+ });*/
 
  module.exports = Pergunta;
