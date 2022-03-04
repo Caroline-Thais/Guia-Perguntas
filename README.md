@@ -1,5 +1,5 @@
 # Guia-Perguntas
-<a href="http://157.245.243.10/">Veja o projeto AQUI</a>
+<a href="http://157.245.243.10/" target="_blank">Veja o projeto AQUI</a>
 ---
 Aplicação Node estilo Yahoo respostas.<br>
 Tecnologias utilizadas: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.
