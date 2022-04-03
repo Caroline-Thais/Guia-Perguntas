@@ -1,9 +1,9 @@
 # Guia-Perguntas
-<a href="http://157.245.243.10/" target="_blank">Veja o projeto AQUI</a>
----
+
 Aplicação Node estilo Yahoo respostas.<br>
-Tecnologias utilizadas: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.
 ---
+Tecnologias utilizadas: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.
+
 Questions and answers platform similar to Yahoo answers, where users can ask questions and answer other users questions.<br>
 Technologies used: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.
 
