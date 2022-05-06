@@ -16,3 +16,9 @@ Technologies used: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.
 ![pic1](https://user-images.githubusercontent.com/76595905/151467486-471f0e6b-3c52-4dcc-b795-028c331e0b11.PNG)
 
 ![pic-2](https://user-images.githubusercontent.com/76595905/151467491-c7347f78-2c19-44b1-87d8-46c8fc87682f.PNG)
+
+---
+<div align="center">
+Desenvolvido por THAÍS CAROLINE SILVA 
+<img src="https://cdn-icons-png.flaticon.com/512/2618/2618497.png" height="40em"> 
+</div>
