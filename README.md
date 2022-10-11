@@ -2,10 +2,10 @@
 
 Aplicação Node estilo Yahoo respostas.<br>
 ---
-Tecnologias utilizadas: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.
+Tecnologias utilizadas: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.<br>
 
-<!--Questions and answers platform similar to Yahoo answers, where users can ask questions and answer other users questions.<br>
-Technologies used: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.-->
+Questions and answers platform similar to Yahoo answers, where users can ask questions and answer other users questions.<br>
+Technologies used: Node.js, Express, MySQL, EJS, Body-parser and Sequelize.
 
 
 <p><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-video-notifications-justicon-lineal-color-justicon.png" height="30em"> Vídeo:</p>
